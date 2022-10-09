@@ -1,0 +1,33 @@
+@media screen and 
+(min-width: 1024px) {
+
+
+
+section{
+    width: 50%;
+}
+
+.main-container{
+    flex-direction: row;
+    flex-wrap:wrap
+}
+
+h1{
+    font-size: 90px;
+    line-height: 102px;
+}
+
+p{
+    font-size: 22px;
+    line-height: 33px;
+    width: 80%;
+    text-align:left;
+}
+
+.dotmenu{display: none;}
+
+.two img{
+    width: 100%;
+}
+
+}

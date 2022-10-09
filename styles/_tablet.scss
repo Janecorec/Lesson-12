@@ -1,0 +1,41 @@
+@media screen and (min-width: 768px) and (max-width:1023px) {
+
+.main-container{
+    width: 70%;
+    height: 100%;
+    padding: 0px;
+}
+
+h1{
+    font-size: 72px;
+    line-height: 83px;
+}
+
+p{
+    font-size: 22px;
+    line-height: 33px;
+    width: 80%;
+    text-align: center;
+}
+
+header{margin-top: 20px;}
+
+.dotmenu{display: none;}
+
+.nav{
+    width: 100%;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.main{
+    min-height: 500px;
+    height: 100%;
+    align-items: center;
+}
+
+.two img{
+    width: 100%;
+}
+
+}
